@@ -1,4 +1,5 @@
 {
+  "name":"Continuous delivery demo using JBoss EAP", 
   "summary":"This demo illustrates a delivery pipelin using docker container to simulate different host running Nexus, Jenkins, Sonar etc.",
   "author":"Thomas Qvarnstrom & Siamak Sadeghianfar",
   "level":"Advanced",
