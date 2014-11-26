@@ -1,0 +1,16 @@
+{
+  "summary":"This demo illustrates a delivery pipelin using docker container to simulate different host running Nexus, Jenkins, Sonar etc.",
+  "author":"Thomas Qvarnstrom & Siamak Sadeghianfar",
+  "level":"Advanced",
+  "published":true,
+  "prerequisites":"Docker natively or boot2docker (or similar)",
+  "targetProduct":"JBoss EAP",
+  "productVersion":"JBoss EAP 6.3",
+  "technologies": ["Jenkins","Nexus", "Sonar" ],
+  "links": [ 
+    {
+      "name":"Code",
+      "url":"https://github.com/tqvarnst/docker-images/tree/master/demo-cd"
+    }
+  ]
+}
